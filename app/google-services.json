@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777949431069",
+    "firebase_url": "https://examencinepolis.firebaseio.com",
+    "project_id": "examencinepolis",
+    "storage_bucket": "examencinepolis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777949431069:android:6361d289b4071921",
+        "android_client_info": {
+          "package_name": "com.ia.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777949431069-3v8ahk56n25j9joj8itgra2oh39mbg6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ia.notifications",
+            "certificate_hash": "791C7A68C63504D10CC8E8ABD05607EA26BC7B93"
+          }
+        },
+        {
+          "client_id": "777949431069-val2bfb51is4q00r4kek4rsb8dtisb6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGg3YS8PNO10TGuv7mAxDoPrEcMFuBeEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777949431069-val2bfb51is4q00r4kek4rsb8dtisb6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
